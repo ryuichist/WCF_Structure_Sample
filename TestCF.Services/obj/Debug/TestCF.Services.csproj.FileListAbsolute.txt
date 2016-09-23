@@ -1,0 +1,7 @@
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Services\bin\Debug\TestCF.Services.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Services\bin\Debug\TestCF.Services.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Services\bin\Debug\TestCF.Contracts.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Services\bin\Debug\TestCF.Contracts.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Services\obj\Debug\TestCF.Services.csprojResolveAssemblyReference.cache
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Services\obj\Debug\TestCF.Services.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Services\obj\Debug\TestCF.Services.pdb

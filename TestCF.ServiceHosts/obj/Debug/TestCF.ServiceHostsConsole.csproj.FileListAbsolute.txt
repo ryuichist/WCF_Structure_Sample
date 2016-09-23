@@ -1,0 +1,10 @@
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\bin\Debug\TestCF.ServiceHosts.exe.config
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\bin\Debug\TestCF.ServiceHosts.exe
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\bin\Debug\TestCF.ServiceHosts.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\bin\Debug\TestCF.Contracts.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\bin\Debug\TestCF.Services.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\bin\Debug\TestCF.Contracts.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\bin\Debug\TestCF.Services.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\obj\Debug\TestCF.ServiceHostsConsole.csprojResolveAssemblyReference.cache
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\obj\Debug\TestCF.ServiceHosts.exe
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.ServiceHosts\obj\Debug\TestCF.ServiceHosts.pdb

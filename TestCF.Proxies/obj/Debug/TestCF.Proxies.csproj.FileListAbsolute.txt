@@ -1,0 +1,11 @@
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.Proxies.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.Proxies.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.Contracts.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.ServiceHosts.exe
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.Services.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.Contracts.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.ServiceHosts.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\bin\Debug\TestCF.Services.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\obj\Debug\TestCF.Proxies.csprojResolveAssemblyReference.cache
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\obj\Debug\TestCF.Proxies.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Proxies\obj\Debug\TestCF.Proxies.pdb

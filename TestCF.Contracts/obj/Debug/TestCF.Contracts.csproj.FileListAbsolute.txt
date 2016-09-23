@@ -1,0 +1,4 @@
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Contracts\bin\Debug\TestCF.Contracts.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Contracts\bin\Debug\TestCF.Contracts.pdb
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Contracts\obj\Debug\TestCF.Contracts.dll
+C:\Users\rsun\Documents\Visual Studio 2015\Projects\ConsoleApplication1\TestCF.Contracts\obj\Debug\TestCF.Contracts.pdb
